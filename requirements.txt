@@ -1,0 +1,9 @@
+laspy
+open3d
+numpy
+matplotlib
+ezdxf
+opencv-python
+scikit-learn
+hdbscan
+scikit-image
